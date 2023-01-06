@@ -1,4 +1,4 @@
-# Find specific object by mask
+# Find a specific object by mask
 ## In
 Source image (newspaper page) and object mask (specific letter). 
 ## Out 
